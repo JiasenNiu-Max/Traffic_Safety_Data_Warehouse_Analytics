@@ -7,7 +7,6 @@ It integrates multi-source datasets, builds a **star schema**, performs **ETL**,
 
 ## 📌 Project Overview
 - **Author**: Niu (Sophia)Jiasen 
-- **Report**: [📄 Project Report PDF](./23941282JiasenNiu_report.pdf)
 
 ---
 
